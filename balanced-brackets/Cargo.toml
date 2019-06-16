@@ -1,0 +1,5 @@
+[package]
+name = "balanced-brackets"
+version = "0.1.0"
+authors = ["Seb Insua <me@sebinsua.com>"]
+edition = "2018"
